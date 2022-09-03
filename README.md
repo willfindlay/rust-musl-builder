@@ -1,5 +1,7 @@
 # `rust-musl-builder`: Docker container for easily building static Rust binaries
 
+**NOTE: permanent fork of https://github.com/emk/rust-musl-builder**
+
 [![Docker Image](https://img.shields.io/docker/pulls/ekidd/rust-musl-builder.svg?maxAge=2592000)](https://hub.docker.com/r/ekidd/rust-musl-builder/)
 
 - [Source on GitHub](https://github.com/emk/rust-musl-builder)
